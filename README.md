@@ -2,7 +2,7 @@
 Repo to test Github codespace.
 
 Langs/Frameworks
-- [ ] Python;
+- [x] Python;
 - [ ] Rust;
 - [ ] Go;
 - [ ] Java;
