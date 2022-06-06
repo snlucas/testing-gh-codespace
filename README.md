@@ -5,6 +5,6 @@ Langs/Frameworks
 - [x] Python;
 - [ ] Rust;
 - [ ] Go;
-- [ ] Java;
+- [x] Java;
 - [ ] Flutter;
 - [ ] Vala;
